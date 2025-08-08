@@ -60,7 +60,7 @@ const allowedUserId = process.env.MY_DISCORD_ID || 'YOUR_ID_HERE';
 
 // Status config
 
-const statusName = process.env.STATUS_NAME || 'xMateo69 boss';
+const statusName = process.env.STATUS_NAME || 'xMatei69 boss';
 
 const statusType =
 
